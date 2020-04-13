@@ -26,7 +26,7 @@ function App() {
 
   return (
     <div className="App">
-        <h1>To Do</h1>
+        <h1>To Do!</h1>
         <TodoForm addTodo={addTodo} />
         <TodoList state={state} handleComplete={handleComplete} />
         <button onClick={(e) => {
