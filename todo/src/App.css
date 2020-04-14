@@ -1,0 +1,39 @@
+body{
+  background-color: lightslategrey;
+}
+
+
+.App {
+  text-align: center;
+  background-color: lightseagreen;
+ min-height: 500px;
+ width: 500px;
+ margin: 40px auto;
+  
+
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.Body {
+     background-color: lightcoral;
+     color: #fff;
+     height: auto;
+     box-sizing: border-box;
+     align-items: center;
+     max-width: 100%;
+     width:70%;
+     margin-left: auto;
+     margin-right: auto;
+
+     
+}
